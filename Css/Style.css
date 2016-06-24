@@ -5,7 +5,6 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.6;
-
 }
 .home-wrapper {
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/background.jpg") no-repeat center top;
@@ -46,10 +45,10 @@ header nav a.active {
     line-height: 1.2;
     margin-bottom: 40px;
 }
-#home .divider{
-  width: 80px;
-  border-top: 5px solid #fed136;
-  margin: 0 auto;
+#home .divider {
+    width: 80px;
+    border-top: 5px solid #fed136;
+    margin: 0 auto;
 }
 #home p {
     font-size: 24px;
@@ -119,28 +118,27 @@ header nav a.active {
     width: 400px;
     border: 1px solid #ccc;
     border-radius: 3px;
-    }
-    #contacto textarea{
-      margin: 20px 0;
-      padding: 20px;
-      width: 400px;
-    }
-    #contacto button{
-      background-color: #fed136;
-      padding: 20px 40px;
-      border-color: #fed136;
-      border-radius: 3px;
-      color: white;
-      font-size: 18px;
-      line-height: 1;
-      font-weight: bold;
-    }
-    footer{
-      text-align: center;
-      padding: 90px 0;
-      font-size: 18px;
-
-    }
+}
+#contacto textarea {
+    margin: 20px 0;
+    padding: 20px;
+    width: 400px;
+}
+#contacto button {
+    background-color: #fed136;
+    padding: 20px 40px;
+    border-color: #fed136;
+    border-radius: 3px;
+    color: white;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    padding: 90px 0;
+    font-size: 18px;
+}
 section {
     padding: 80px 0;
 }
